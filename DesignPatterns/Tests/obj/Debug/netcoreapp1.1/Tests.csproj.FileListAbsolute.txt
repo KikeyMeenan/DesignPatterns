@@ -1,0 +1,12 @@
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Tests.deps.json
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.json
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Tests.runtimeconfig.dev.json
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Tests.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\Tests.csprojResolveAssemblyReference.cache
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\Tests.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Tests.pdb
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\Tests.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\Tests.pdb

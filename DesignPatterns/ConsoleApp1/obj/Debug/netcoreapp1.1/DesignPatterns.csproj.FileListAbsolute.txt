@@ -1,0 +1,8 @@
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp1.1\DesignPatterns.deps.json
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp1.1\DesignPatterns.runtimeconfig.json
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp1.1\DesignPatterns.runtimeconfig.dev.json
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp1.1\DesignPatterns.dll
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\bin\Debug\netcoreapp1.1\DesignPatterns.pdb
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp1.1\DesignPatterns.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp1.1\DesignPatterns.dll
+C:\GitHub\DesignPatterns\DesignPatterns\ConsoleApp1\obj\Debug\netcoreapp1.1\DesignPatterns.pdb
