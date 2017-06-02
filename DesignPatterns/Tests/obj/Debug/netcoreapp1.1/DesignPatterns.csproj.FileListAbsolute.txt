@@ -1,3 +1,6 @@
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
 C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -10,6 +13,3 @@ C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\DesignPatt
 C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\DesignPatterns.AssemblyInfo.cs
 C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\DesignPatterns.dll
 C:\GitHub\DesignPatterns\DesignPatterns\Tests\obj\Debug\netcoreapp1.1\DesignPatterns.pdb
-C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
-C:\GitHub\DesignPatterns\DesignPatterns\Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
