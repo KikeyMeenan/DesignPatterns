@@ -29,6 +29,7 @@ namespace DesignPatterns.Creational.FactoryMethod
 
             public InstructionsDocument()
             {
+                //this pattern is creational, it CREATES when instantiated
                 this.CreateInstructions();
             }
 
