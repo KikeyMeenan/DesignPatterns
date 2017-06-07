@@ -38,7 +38,7 @@ namespace DesignPatterns.Creational.FactoryMethod
                 get { return _instruction; }
             }
 
-            //this is the factory METHOD!!! This pattern is all about the METHOD!
+            //this is the factory METHOD!!! This pattern is all about the METHOD! - It is a factory method because it HIDES the method?
             public abstract void CreateInstructions();
         }
 
