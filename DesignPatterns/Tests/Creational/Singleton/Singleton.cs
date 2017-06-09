@@ -9,6 +9,8 @@ namespace DesignPatterns.Creational.Singleton
         //create an object
         private static SingleObject instance = new SingleObject();
 
+        public int CallCount { get; private set; }
+
         //make constructor private so it can't be instantiated
         private SingleObject() { }
 
@@ -18,9 +20,9 @@ namespace DesignPatterns.Creational.Singleton
             return instance;
         }
 
-        public string ShowMessage()
+        public void CallSingleton()
         {
-            return "The Message";
+            CallCount++;
         }
     }
 }
